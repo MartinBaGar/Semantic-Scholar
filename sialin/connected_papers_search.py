@@ -2,7 +2,7 @@ import requests
 import time
 
 # bib_file = "ConnectedPapers-for-A-dual-diffusion-model-enables-3D-molecule-generation-and-lead-optimization-based-on-target-pockets.bib"
-bib_file = "ConnectedPapers-for-PocketFlow-is-a-data_20and_20knowledge_20driven-structure_20based-molecular-generative-model.bib"
+bib_file = "ConnectedPapers-for-A-New-Patient-With-Intermediate-Severe-Salla-Disease_C2_A0With-Hypomyelination_3A-A-Literature-Review-for-Salla-Disease.bib"
 
 semantic_ids = []
 
